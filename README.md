@@ -22,7 +22,7 @@ This project is a web application that predicts whether a superhero should be re
 
 1. Clone the repository:
 ```sh
-   git clone https://github.com/your-username/superhero-recruitment.git
+   https://github.com/venky-1710/superhero-recruitment.git
 ```
 2. Navigate to the project directory:
 ```sh
